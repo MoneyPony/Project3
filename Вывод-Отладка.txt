@@ -1,0 +1,12 @@
+﻿"Project3.exe" (Win32). Загружено "C:\Users\petya\source\repos\Project3\x64\Debug\Project3.exe". Символы загружены.
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x377c завершился с кодом 0 (0x0).
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Project3.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 0x171c завершился с кодом 0 (0x0).
+Поток 0x2710 завершился с кодом 0 (0x0).
+Программа "[14092] Project3.exe" завершилась с кодом 0 (0x0).
